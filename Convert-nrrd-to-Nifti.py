@@ -1,3 +1,7 @@
+import os
+import nrrd
+import nibabel as nib
+import numpy as np
 
 nrrd_directory = '/usr/sci/scratch/Moksha/femur_newdata/new_data/train/segmentations'
 nifti_directory = '/usr/sci/scratch/rachaell/raw_datasets/Femur/labelsTr'
