@@ -1,3 +1,9 @@
+'''
+This code helps us view a 3d NRRD volume as a series of slices using <> keys
+-> Starts from the middle slice and displays the [current slice number/ total number of slices]
+-> Assumes the shape to be of the format [x,x,#slices] where [x,x] is the shape of each slice
+'''
+
 import nrrd
 import matplotlib.pyplot as plt
 import ipywidgets as widgets
