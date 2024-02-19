@@ -29,4 +29,4 @@ In the context of kidney tumor segmentation, these different phases can provide 
 When analyzing such multi-phase CT data, it's important to consider the characteristics of each phase to accurately interpret the images and derive meaningful insights, especially in tasks like tumor segmentation or organ delineation.
 
 ------------------------------------------------------------------------------------------------------------------
-When we clone data from github, and follow the Usage instructions, it will download 300 cases (this is what is used by Vol2Flow I believe)
+When we clone data from github, and follow the Usage instructions, it will download 300 cases 
